@@ -40,5 +40,4 @@ chrome_opt.add_argument('no-sandbox')
 ```
 
 ### 步骤7
-网页元素定位文档参考
-https://www.seleniumhq.org/docs/03_webdriver.jsp
+[网页元素定位文档参考](https://www.seleniumhq.org/docs/03_webdriver.jsp)
