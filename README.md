@@ -31,6 +31,9 @@ gpgcheck=1
 gpgkey=https://dl-ssl.google.com/linux/linux_signing_key.pub
 yum -y install google-chrome-stable --nogpgcheck
 ```
+下载相关驱动
+wget http://npm.taobao.org/mirrors/chromedriver/70.0.3538.67/chromedriver_linux64.zip
+
 ### 步骤6
 爬虫的重点代码块
 ```python
